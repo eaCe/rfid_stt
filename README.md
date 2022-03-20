@@ -4,7 +4,7 @@
 
 RC522 | D1 mini
 --- | --- 
-VCC | 3.3
+VCC | 3V3
 RST | D3
 GND | G
 MISO | D6
