@@ -165,8 +165,6 @@ void loop() {
           /**
            * unlock chip if an error has occurred
            */
-            // Clear locked card data just in case some data was retrieved in the select procedure
-            // but an error prevented locking.
             mfrc522.uid.size = 0;
         }
     }
