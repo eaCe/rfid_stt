@@ -1,5 +1,11 @@
 # Simple Time Tracking via RFID 
 
+TODO:
+
+- [ ] add REDAXO Addon
+
+---
+
 **D1 mini -> RFID-RC522 wiring**
 
 RC522 | D1 mini
